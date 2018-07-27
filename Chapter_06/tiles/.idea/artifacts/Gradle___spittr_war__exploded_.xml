@@ -1,0 +1,57 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : spittr.war (exploded)">
+    <output-path>$PROJECT_DIR$/build/libs/exploded/spittr.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/libs/exploded/spittr.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="Spittr-Tiles_main/web/Web Gradle : spittr.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Spittr-Tiles_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.0.7.RELEASE/5d2de0ccee1d6cc02ec2d29c5440a762fd4345f6/spring-webmvc-4.0.7.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.0.7.RELEASE/2fe5d0596549795c343226e2f387a292280dd1ff/spring-jdbc-4.0.7.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.h2database/h2/1.4.182/fc66091e2aa166713fa830a02a9261e54f020044/h2-1.4.182.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.0.1.Final/542a45c94ff8a7551779caaaffd3857d643b9087/hibernate-validator-5.0.1.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.1/905075e6c80f206bbe6cf1e809d2caa69f420c76/commons-lang3-3.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.5/cd5970bd13fa85f7bed41ca606d6daf7cbf1365/jcl-over-slf4j-1.7.5.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-log4j12/1.7.5/6edffc576ce104ec769d954618764f39f0f0f10d/slf4j-log4j12-1.7.5.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.5/6b262da268f8ad9eff941b25503a9198f0a0ac93/slf4j-api-1.7.5.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tiles/tiles-jsp/3.0.1/3554582e83bd84bcce601b935440ff281d1d210f/tiles-jsp-3.0.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tiles/tiles-servlet/3.0.1/4ec5bed5f984ac1ed54bec1cbb0e51c1cb4e3dad/tiles-servlet-3.0.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tiles/tiles-core/3.0.1/359a3c7f0155f03ae5d12d2f779859a453c437bf/tiles-core-3.0.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/jstl/1.2/74aca283cd4f4b4f3e425f5820cda58f44409547/jstl-1.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.0.7.RELEASE/9c8505b6785bfe6b45bbdc8c8cbcda628feb21b1/spring-web-4.0.7.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.0.7.RELEASE/8a4aa735f3691a1985381b3c6c69d32b835f51b4/spring-context-4.0.7.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.0.7.RELEASE/756d9d0451804e534820ce7c0d1c7de75583685/spring-tx-4.0.7.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.0.7.RELEASE/caadec5dc4ea4899d89004ff46053f8e391e0343/spring-aop-4.0.7.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.0.7.RELEASE/fdd041f086972cc16f9b09ee420a98604cd0bc07/spring-beans-4.0.7.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.0.7.RELEASE/46a4cfe181b1f15940b5ea7530fcad1f8b98c561/spring-expression-4.0.7.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.0.7.RELEASE/777e9502c4c2de150918a746fa22734d3eff81e0/spring-core-4.0.7.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.1.1.GA/7fb1a7eb7ff1d15cac1802510fee65c7ca31a869/jboss-logging-3.1.1.GA.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/0.8.0/27426d4fca7adcda34f536e32d6189566a2929f0/classmate-0.8.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tiles/tiles-template/3.0.1/e9ab8acfa97bc812a71334394d1f573b25b5aebe/tiles-template-3.0.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tiles/tiles-api/3.0.1/3d49cebe1adfb2074332ccb16eb9cfe7647e1759/tiles-api-3.0.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-digester/commons-digester/2.0/3dbd8a76683cd563583a2c78c356ad8b8acf38bf/commons-digester-2.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tiles/tiles-request-jsp/1.0.1/ad5fa55a948087e67593adbff312206d07033c08/tiles-request-jsp-1.0.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f/commons-logging-1.1.3.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tiles/tiles-request-servlet/1.0.1/b74ca6c9c9eedfcaf1b8e9a8889d0dcf615df33d/tiles-request-servlet-1.0.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tiles/tiles-request-api/1.0.1/ac444f7d599a6ae28c360cd10fdf2aafa3b87106/tiles-request-api-1.0.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.8.0/c651d5103c649c12b20d53731643e5fffceb536/commons-beanutils-1.8.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tiles/tiles-autotag-core-runtime/1.1.0/1fb6109d5bc35c7403a55d019e0e8cf8ec06b49e/tiles-autotag-core-runtime-1.1.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
